@@ -5,7 +5,7 @@
 
   ## Description
 
-  This is a Facebook Interest Finder. It uses a Node and Express server. It uses Handlebars.js as the template engine. It is backed by a MySQL database with a Sequelize ORM. It uses protected API keys in Node with environment variables
+  This is a Facebook Interest Finder. It uses a Server-side APIs, is interactive, with a polished UI, and meets good quality coding standards.
 
   ## Table of contents
 
