@@ -1,5 +1,5 @@
 
-  # **[FacebookMarketingTool](http://github.com/Grrazzlle/FacebookMarketingTool)**
+  # **[FacebookMarketingTool](http://github.com/grrazzlle/FacebookMarketingTool)**
   
   [![License: None](https://img.shields.io/badge/License-None-blue.svg)](https://choosealicense.com/)
 
